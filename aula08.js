@@ -31,4 +31,4 @@ if (imc < 18.5) {
     classificacao = "Obesidade grau 3";
 }
 
-alert("Seu IMC é: " + imc.toFixed(2) + "\nClassificação: " + classificacao);
+alert("Seu IMC é: " + imc.toFixed(2) + "\nClassificação: " + classificacao); 
